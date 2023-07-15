@@ -163,7 +163,7 @@ async def clear(ctx, amount : int):
 
 
 
-
+#test
 
 bot.run('MTA5MTcxMjg1MzA4NzYxNzA4NA.G2utZU.MWFA98IqJfw3krtPEwgjsmfjWrbExkpEIJ7Tp4')
 
